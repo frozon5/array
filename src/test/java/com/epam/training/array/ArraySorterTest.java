@@ -8,6 +8,6 @@ public class ArraySorterTest {
 
     }
 
-    //TODO: add tests for other positive scenarios and for negative as well
+    //TODO: add tests for other positive and negative scenarios
 
 }
