@@ -1,6 +1,6 @@
 # Array task
 
-We are going to implement type Array which is a wrapper class over an array of integer numbers.
+Implement Array class which is a wrapper over an array of integer numbers.
 
 1. Implement constructors that allow us to create objects of this type in several ways;
 2. Implement ``get`` and ``set`` methods if necessary (try to keep class immutable);
