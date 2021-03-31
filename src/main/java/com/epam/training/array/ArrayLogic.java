@@ -10,5 +10,7 @@ public class ArrayLogic {
     public Array findPrimeNumbers(Array array) {
         throw new UnsupportedOperationException();
     }
+    
+   //TODO: add other methods here
 
 }
